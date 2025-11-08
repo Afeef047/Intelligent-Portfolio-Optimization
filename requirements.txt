@@ -1,0 +1,13 @@
+pandas
+yfinance
+pandas-ta
+scikit-learn
+joblib
+xgboost
+PyPortfolioOpt
+scipy
+matplotlib
+shap
+streamlit
+Pillow
+openpyxl
